@@ -1,0 +1,1 @@
+{"id": "celibistrial/gibc-train-plain-gpu", "title": "gibc train plain gpu", "code_file": "train.py", "language": "python", "kernel_type": "script", "is_private": true, "enable_gpu": true, "enable_internet": true, "machine_shape": "NvidiaL4", "dataset_sources": [], "competition_sources": [], "kernel_sources": ["celibistrial/gibc-prep"], "model_sources": []}

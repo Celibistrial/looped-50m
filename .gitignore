@@ -1,0 +1,6 @@
+.venv/
+data/
+out/
+kaggle/prep_out/
+*.npz
+__pycache__/

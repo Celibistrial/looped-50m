@@ -1,0 +1,1 @@
+{"id": "celibistrial/gibc-train-plain", "title": "gibc train plain", "code_file": "train.py", "language": "python", "kernel_type": "script", "is_private": true, "enable_gpu": false, "enable_internet": true, "machine_shape": "TpuV5E8", "dataset_sources": [], "competition_sources": [], "kernel_sources": ["celibistrial/gibc-prep"], "model_sources": []}
